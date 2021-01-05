@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hive: GuliVideo
 
 # 需求
