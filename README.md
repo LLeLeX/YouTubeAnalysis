@@ -1,15 +1,8 @@
-# Hive: GuliVideo
-
-# 需求
-
-统计谷粒影音视频网站的常规指标，各种 TopN 指标：
-=======
 # Hive: YouTubeAnalysis
 
 # 需求
 
 统计Youtube的常规指标，各种 TopN 指标：
->>>>>>> 4ee2bed (update readme)
 
 -- 统计视频观看数 Top10
 
