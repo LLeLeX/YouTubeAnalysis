@@ -58,7 +58,7 @@
 
 |          | hadoop1                              | hadoop2                                                | hadoop3                              |
 | -------- | ------------------------------------ | ------------------------------------------------------ | ------------------------------------ |
-| 硬件配置 | Centos6.32<br />RAM: 2G<br />HDD:80G | Centos6.32<br />RAM: 2G<br />HDD:80G                   | Centos6.32<br />RAM: 2G<br />HDD:80G |
+| 硬件配置 | Centos6.8<br />RAM: 2G<br />HDD:80G | Centos6.8<br />RAM: 2G<br />HDD:80G                   | Centos6.8<br />RAM: 2G<br />HDD:80G |
 | HDFS     | NameNode<br />DataNode               | DataNode                                               | SecondaryNameNode<br />DataNode      |
 | YARN     | NodeManager                          | ResourceManager<br />JobHistoryServer<br />NodeManager | NodeManager                          |
 | Hive     | Hive                                 |                                                        |                                      |
